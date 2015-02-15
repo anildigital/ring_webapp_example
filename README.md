@@ -4,11 +4,16 @@ A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
 
-FIXME
+Contains two examples
+
+1. lein run
+which runs on port 3005
+
+2. lein ring server
+which runs on port 3000
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 Anil Wadghule
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+SEE LICENSE
